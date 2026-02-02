@@ -35,7 +35,7 @@ As entradas não diferenciam maiúsculas e minúsculas.
 *Draw
 *P1 win
 *P2 win
-*Mensagem de jogada inválida, caso necessário
+*Move Invalid 
 
 🧠 Conceitos praticados
 
@@ -53,10 +53,12 @@ Comparação de String com equalsIgnoreCase
 
 Separação de responsabilidades (Main / Service)
 
+
 📌 Estrutura do projeto 
 src/
 ├── Main.java
 └── jokenpoService.java
+
 
 👨‍💻 Autor
 
