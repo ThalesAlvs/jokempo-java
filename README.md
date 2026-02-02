@@ -56,6 +56,13 @@ Validação de dados
 
 Boas práticas com Scanner
 
-Comparação de String com equalsIgnoreCase
+📌 Estrutura do projeto 
+src/
+ ├── Main.java
+ └── JokenpoService.java
 
-Separação de responsabilidades (Main / Service)
+
+ 👨‍💻 Autor
+
+Projeto desenvolvido por thales
+
