@@ -1,4 +1,4 @@
-📌 Jokenpô em Java (Rock, Paper and Scissors )
+📌 Jokenpô em Java (Pedra, Papel e Tesoura)
 
 Projeto simples em Java desenvolvido para praticar conceitos básicos de lógica de programação, orientação a objetos e controle de fluxo.
 
@@ -7,6 +7,7 @@ O programa executa o jogo Pedra, Papel e Tesoura em modo texto, permitindo múlt
 🛠️ Tecnologias utilizadas
 
 Java
+
 Scanner (java.util.Scanner)
 
 🎮 Como funciona
@@ -24,18 +25,24 @@ O jogo continua em loop até que o Jogador 1 digite "sair"
 📥 Entradas válidas
 
 rock
+
 paper
+
 scissors
+
 exit
 
 As entradas não diferenciam maiúsculas e minúsculas.
 
 📤 Saídas possíveis
 
-*Draw
-*P1 win
-*P2 win
-*Move Invalid 
+Draw
+
+P1 win
+
+P2 win
+
+Mensagem de jogada inválida, caso necessário
 
 🧠 Conceitos praticados
 
@@ -52,15 +59,3 @@ Boas práticas com Scanner
 Comparação de String com equalsIgnoreCase
 
 Separação de responsabilidades (Main / Service)
-
-
-📌 Estrutura do projeto 
-src/
-├── Main.java
-└── jokenpoService.java
-
-
-👨‍💻 Autor
-
-Projeto desenvolvido por Thales
-Estudo prático de Java com foco em aprendizado e boas práticas.
